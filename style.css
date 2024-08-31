@@ -1,0 +1,22 @@
+h1 {
+	font-family: 50px;
+	font-style: italic;
+}
+.urmi {
+	color: orange;
+}
+.half-width {
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	padding-left: 2%;
+}
+.half-width img {
+	width: 100%;
+}
+.top-banner {
+	background-image: url('images/developer-portfolio/top-banner.png');
+}
+section {
+	height: 400px;
+}
