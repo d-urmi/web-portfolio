@@ -18,5 +18,49 @@ h1 {
 	background-image: url('images/developer-portfolio/top-banner.png');
 }
 section {
+	padding-bottom: 150px;
 	height: 400px;
+}
+.link-button {
+	text-decoration: none;
+	background-color: blue;
+	padding: 10px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: 700;
+}
+h2 {
+	font-size: 40px;
+}
+p {
+	color: cadetblue;
+}
+.dream-area {
+	background-image: url(images/developer-portfolio/dream-bg.png);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+.highlight {
+	color: orange;
+}
+.single-experience {
+	box-shadow: 10px 10px 40px grey;
+	border-radius: 10px;
+	height: 70%;
+}
+.experience-area {
+	background-image: url(images/developer-portfolio/exp-bg.png);
+	background-repeat: no-repeat;
+	background-position: left;
+}
+#ful-stack {
+	border-left: 7px;
+	-o-border-image: linear-gradient(180deg, lightsalmon, tomato);
+	border-image-slice: 1;
+}
+#baby-web {
+	border-left: 7px;
+	-o-border-image: linear-gradient(180deg, blue, cyan);
+	border-image: linear-gradient(180deg, blue, cyan);
+	border-image-slice: 1;
 }
